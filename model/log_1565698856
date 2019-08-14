@@ -1,0 +1,3 @@
+# log_file=/home/paperspace/Desktop/stuff/nmt-chatbot/model/log_1565698856
+# Start step 0, lr 0.001, Tue Aug 13 08:21:04 2019
+  global step 100 lr 0.001 step-time 5.04s wps 1.06K ppl 611.13 gN 35.37 bleu 0.00

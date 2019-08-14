@@ -1,0 +1,15 @@
+# log_file=/home/paperspace/Desktop/stuff/nmt-chatbot/model/log_1565703397
+# Start step 0, lr 0.001, Tue Aug 13 09:36:46 2019
+  global step 100 lr 0.001 step-time 5.45s wps 0.97K ppl 582.23 gN 29.70 bleu 0.00
+  global step 200 lr 0.001 step-time 4.68s wps 1.11K ppl 215.73 gN 11.88 bleu 0.00
+  global step 300 lr 0.001 step-time 4.83s wps 1.09K ppl 158.27 gN 11.42 bleu 0.00
+  global step 400 lr 0.001 step-time 4.76s wps 1.12K ppl 135.85 gN 9.21 bleu 0.00
+  global step 500 lr 0.001 step-time 4.69s wps 1.11K ppl 125.21 gN 8.28 bleu 0.00
+  global step 600 lr 0.001 step-time 5.75s wps 0.91K ppl 112.92 gN 8.22 bleu 0.00
+  global step 700 lr 0.001 step-time 6.80s wps 0.77K ppl 106.90 gN 7.90 bleu 0.00
+  global step 800 lr 0.001 step-time 6.79s wps 0.78K ppl 101.55 gN 7.80 bleu 0.00
+  global step 900 lr 0.001 step-time 6.80s wps 0.77K ppl 97.71 gN 7.22 bleu 0.00
+  global step 1000 lr 0.001 step-time 6.88s wps 0.77K ppl 94.17 gN 7.31 bleu 0.00
+  global step 1100 lr 0.001 step-time 6.31s wps 0.83K ppl 92.05 gN 7.16 bleu 0.00
+  global step 1200 lr 0.001 step-time 4.98s wps 1.06K ppl 89.58 gN 7.10 bleu 0.00
+  global step 1300 lr 0.001 step-time 6.75s wps 0.77K ppl 87.84 gN 7.12 bleu 0.00
